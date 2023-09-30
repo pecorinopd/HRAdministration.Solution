@@ -16,8 +16,4 @@
     <ProjectReference Include="..\Shared\HRAdministration.Shared.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Componentistica\" />
-  </ItemGroup>
-
 </Project>
